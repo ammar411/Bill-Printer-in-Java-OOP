@@ -1,6 +1,17 @@
 # Bill-Printer-in-Java-OOP
 It is an medical store printing system made in GUI Java implementing OOP concepts
 Code 
+
+
+
+
+
+
+
+
+
+
+
 IT Is the First Frame which is used to create in login page to open new frame for elements
 
 
